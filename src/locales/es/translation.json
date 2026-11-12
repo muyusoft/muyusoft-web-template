@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "title": "MuyuSoft Web",
+    "description": "Template base web de MuyuSoft"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Algo salió mal",
+    "retry": "Reintentar",
+    "empty": "No hay nada aquí todavía",
+    "backHome": "Volver al inicio",
+    "skipToContent": "Saltar al contenido"
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "description": "La página que buscas no existe o fue movida."
+  },
+  "localeSwitcher": {
+    "label": "Idioma",
+    "es": "Español",
+    "en": "English"
+  },
+  "home": {
+    "title": "Bienvenido",
+    "description": "Este es el punto de partida de tu proyecto web.",
+    "exampleLink": "Ver la feature de ejemplo"
+  },
+  "announcements": {
+    "title": "Anuncios",
+    "description": "Novedades y comunicados.",
+    "empty": "Todavía no hay anuncios.",
+    "loadError": "No pudimos cargar los anuncios. Inténtalo más tarde."
+  }
+}
